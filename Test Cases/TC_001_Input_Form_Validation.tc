@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automation of form on website : https://www.seleniumeasy.com/test/input-form-demo.html</description>
+   <name>TC_001_Input_Form_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6da31c88-faf8-4c65-a86f-5a7ef13470c3</testCaseGuid>
+</TestCaseEntity>
