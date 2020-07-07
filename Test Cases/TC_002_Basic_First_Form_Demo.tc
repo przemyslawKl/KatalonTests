@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automation test of website 
+https://www.seleniumeasy.com/test/basic-first-form-demo.html</description>
+   <name>TC_002_Basic_First_Form_Demo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19c23521-6347-4a04-b800-584c61ba91a6</testCaseGuid>
+</TestCaseEntity>
