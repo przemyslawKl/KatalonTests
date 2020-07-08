@@ -56,3 +56,5 @@ WebUI.setText(findTestObject('Object Repository/OR_TC_001_Input_Form_Validation/
 
 WebUI.click(findTestObject('Object Repository/OR_TC_001_Input_Form_Validation/Page_Selenium Easy - Input Form Demo with V_de6743/button_Send'))
 
+WebUI.closeBrowser()
+
