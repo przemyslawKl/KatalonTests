@@ -20,6 +20,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.seleniumeasy.com/test/input-form-demo.html')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/OR_TC_001_Input_Form_Validation/Page_Selenium Easy - Input Form Demo with V_de6743/input_First Name_first_name'), 
     'Tester')
 

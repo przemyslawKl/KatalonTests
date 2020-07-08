@@ -20,6 +20,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.seleniumeasy.com/test/basic-first-form-demo.html')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/OR_TC_002_Basic_First_Form_Demo/Page_Selenium Easy Demo - Simple Form to Au_3f5468/a_No thanks'))
 
 WebUI.setText(findTestObject('Object Repository/OR_TC_002_Basic_First_Form_Demo/Page_Selenium Easy Demo - Simple Form to Au_3f5468/input_Enter message_user-message'), 
